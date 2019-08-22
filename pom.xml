@@ -37,6 +37,8 @@
         <version.jboss.logmanager>2.0.3.Final-redhat-1</version.jboss.logmanager>
     </properties>
 
+
+
     <dependencies>
 
         <dependency>
