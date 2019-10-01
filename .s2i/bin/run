@@ -28,7 +28,7 @@ fi
 export JAVA_OPTS
 export JAVA_OPTIONS="$JAVA_OPTS"
 
-echo "This is an overriden run file!!!!"
+echo "This is an overriden run file!!!!22222222"
 
 if [ -f "${S2I_TARGET_DEPLOYMENTS_DIR}/bin/run.sh" ]; then
     echo "Starting the application using the bundled ${S2I_TARGET_DEPLOYMENTS_DIR}/bin/run.sh ..."
